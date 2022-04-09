@@ -4,7 +4,19 @@ public class Add {
 		System.out.println("JAVA GIT");
 
 	}
-	public int division(int a, int b){
-		return a/b;
+
+	public int division(int a, int b) {
+		return a / b;
+
+	}
+	public int addd(int a, int b) {
+		
+		return a+b;
+	}
+	
+	public int mul(int a, int b) {
+		
+		return a*b;
+
 	}
 }
